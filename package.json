@@ -14,7 +14,7 @@
     "cypress": "^13.6.4"
   },
   "dependencies": {
-    "@cypress/code-coverage": "^3.12.20",
+    "@cypress/code-coverage": "^4.0.0",
     "cypress-mochawesome-reporter": "^3.8.1"
   }
 }
